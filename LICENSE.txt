@@ -1,1 +1,3 @@
 test using for git bash
+what happen when i add two files the same
+tes ttt
